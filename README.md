@@ -11,11 +11,13 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 |  |
 | ------- |
 | [0015-3sum](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
@@ -26,8 +28,17 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 |  |
 | ------- |
 | [0015-3sum](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0075-sort-colors) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0125-valid-palindrome) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
