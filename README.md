@@ -7,6 +7,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0066-plus-one) |
 ## Array
 |  |
 | ------- |
@@ -14,6 +15,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0015-3sum](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0283-move-zeroes) |
