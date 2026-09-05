@@ -14,6 +14,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0035-search-insert-position) |
@@ -28,6 +29,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0075-sort-colors) |
@@ -74,6 +76,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
 |  |
