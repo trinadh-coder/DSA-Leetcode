@@ -20,6 +20,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0035-search-insert-position](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0283-move-zeroes) |
@@ -93,4 +94,8 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
