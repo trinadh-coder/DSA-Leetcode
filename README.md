@@ -24,6 +24,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0217-contains-duplicate](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1480-running-sum-of-1d-array](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3875-construct-uniform-parity-array-i](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -77,6 +78,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
