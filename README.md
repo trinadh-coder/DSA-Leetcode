@@ -21,6 +21,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0066-plus-one](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0283-move-zeroes) |
@@ -98,4 +99,8 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
