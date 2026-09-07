@@ -27,6 +27,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0217-contains-duplicate](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3875-construct-uniform-parity-array-i](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -43,6 +44,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0283-move-zeroes](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +59,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0217-contains-duplicate](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## String
 |  |
