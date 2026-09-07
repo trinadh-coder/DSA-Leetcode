@@ -8,6 +8,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | ------- |
 | [0007-reverse-integer](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0066-plus-one) |
+| [0509-fibonacci-number](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3875-construct-uniform-parity-array-i](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
@@ -99,8 +100,17 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0136-single-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
