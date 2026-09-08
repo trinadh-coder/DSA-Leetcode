@@ -20,6 +20,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0015-3sum](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -39,6 +40,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0011-container-with-most-water](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -105,6 +107,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
@@ -119,4 +122,12 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0509-fibonacci-number) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
