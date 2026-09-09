@@ -11,6 +11,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0509-fibonacci-number](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [3870-count-commas-in-range](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
