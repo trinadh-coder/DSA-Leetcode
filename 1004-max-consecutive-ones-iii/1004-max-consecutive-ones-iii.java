@@ -3,8 +3,8 @@ class Solution {
         int l=0;
         int r=0;
         int zerocount=0;
-        int n=nums.length;
-        for(r=0;r<n;r++){
+        
+        for(r=0;r<nums.length;r++){
             if(nums[r]==0){
                 zerocount++;
             }
