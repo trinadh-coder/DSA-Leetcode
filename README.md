@@ -32,6 +32,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0349-intersection-of-two-arrays](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -58,6 +59,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0035-search-insert-position](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0713-subarray-product-less-than-k](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
@@ -94,6 +96,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -140,5 +143,6 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
