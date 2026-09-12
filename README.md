@@ -78,6 +78,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0125-valid-palindrome](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0344-reverse-string) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Quicksort
 |  |
 | ------- |
@@ -146,4 +147,5 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0643-maximum-average-subarray-i](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 <!---LeetCode Topics End-->
