@@ -9,6 +9,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0007-reverse-integer](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0836-rectangle-overlap) |
 | [2119-a-number-after-a-double-reversal](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/2235-add-two-integers) |
 | [3870-count-commas-in-range](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/3870-count-commas-in-range) |
@@ -148,4 +149,8 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0713-subarray-product-less-than-k](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
