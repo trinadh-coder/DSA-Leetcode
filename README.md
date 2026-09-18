@@ -30,6 +30,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0136-single-number](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -93,6 +94,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | ------- |
 | [0001-two-sum](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -145,6 +147,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
