@@ -19,6 +19,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0027-remove-element) |
@@ -59,6 +60,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -156,4 +158,8 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0836-rectangle-overlap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
