@@ -83,6 +83,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0242-valid-anagram](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0344-reverse-string) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Quicksort
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3498-reverse-degree-of-a-string](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
