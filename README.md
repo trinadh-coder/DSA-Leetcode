@@ -79,6 +79,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0344-reverse-string) |
@@ -96,6 +97,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0242-valid-anagram) |
@@ -151,6 +153,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
