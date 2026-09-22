@@ -8,6 +8,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | ------- |
 | [0007-reverse-integer](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0836-rectangle-overlap) |
 | [2119-a-number-after-a-double-reversal](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -33,6 +34,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0209-minimum-size-subarray-sum](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -66,6 +68,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0035-search-insert-position](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -76,6 +79,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0075-sort-colors](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -104,6 +108,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0217-contains-duplicate](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0904-fruit-into-baskets](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -139,6 +144,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 |  |
 | ------- |
 | [0136-single-number](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
