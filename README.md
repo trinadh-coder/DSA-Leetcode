@@ -38,6 +38,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0485-max-consecutive-ones](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -104,6 +105,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0219-contains-duplicate-ii](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0904-fruit-into-baskets](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Prefix Sum
 |  |
@@ -161,6 +163,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0219-contains-duplicate-ii](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Geometry
