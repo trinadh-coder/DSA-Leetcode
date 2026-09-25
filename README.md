@@ -33,6 +33,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0217-contains-duplicate) |
@@ -82,6 +83,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | ------- |
 | [0015-3sum](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0268-missing-number) |
@@ -110,6 +112,7 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 | ------- |
 | [0001-two-sum](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0242-valid-anagram) |
@@ -185,4 +188,13 @@ Solving DSA problems in JAVA as part of my placement preparation, organized by p
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/trinadh-coder/DSA-Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
